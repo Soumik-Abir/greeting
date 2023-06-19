@@ -4,7 +4,7 @@ import "./index.css";
 import App from "./App";
 import reportWebVitals from "./reportWebVitals";
 
-let currDate = new Date(2023,5, 5, 14);
+let currDate = new Date();
 currDate = currDate.getHours();
 
 let greeting = "";
